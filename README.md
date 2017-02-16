@@ -6,7 +6,8 @@ My Linux Kernel configuration for a Lenovo ThinkPad X260
 * btrfs
 * luks
 * systemd
-* docker needed options (WIP)
+* qemu
+* docker
 * Some cups dirty driver
 
 ## My 'lspci -nnk':
