@@ -8,7 +8,8 @@ My Linux Kernel configuration for a Lenovo ThinkPad X260
 * systemd
 * qemu
 * docker
-* Some cups dirty driver
+* The gcc  optimisations [patch](https://github.com/graysky2/kernel_gcc_patch) for Intel Skylake
+* Gentoo [experimental patches](https://wiki.gentoo.org/wiki/Project:Kernel/Experimental)
 
 ## My 'lspci -nnk':
 ```
