@@ -10,6 +10,7 @@ My Linux Kernel configuration for a Lenovo ThinkPad X260
 * docker
 * The gcc  optimisations [patch](https://github.com/graysky2/kernel_gcc_patch) for Intel Skylake
 * Gentoo [experimental patches](https://wiki.gentoo.org/wiki/Project:Kernel/Experimental)
+* The dm-crypt [options](https://wiki.gentoo.org/wiki/Dm-crypt)
 
 ## My 'lspci -nnk':
 ```
